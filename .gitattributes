@@ -1,0 +1,5 @@
+*.json filter=removekeys
+*.txt  filter=removekeys
+
+*.json filter=addkeys
+*.txt  filter=addkeys
