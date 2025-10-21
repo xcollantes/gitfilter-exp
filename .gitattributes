@@ -1,1 +1,2 @@
-*.txt filter=removekeys
+*.txt filter=secretkey
+*.yaml filter=secretkey
