@@ -1,3 +1,1 @@
-*.txt  filter=removekeys
-
-*.txt  filter=addkeys
+*.txt filter=removekeys
