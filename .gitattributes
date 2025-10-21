@@ -1,2 +1,4 @@
 *.txt filter=secretkey
 *.yaml filter=secretkey
+
+*.md filter=encrypt
